@@ -1,0 +1,93 @@
+li a {
+    display: block;
+    text-align: left;
+    padding: 10px;
+    margin-left: 10px;
+    color: #2c2f26;
+    text-decoration: none;
+}
+
+li {
+    float: left;
+    display: inline;
+    font-family: 'Century Gothic';
+    font-size: large;
+}
+
+li a:hover {
+    background-color: #e6e6fa;
+}
+
+img {
+    padding: 0px;
+    margin-left: 10px;
+    width: 45px;
+    height: 35px;
+}
+
+h2 {
+    color: rgba(0, 0, 0, .5);
+    font-family: 'Century Gothic';
+}
+
+.active {
+    width: 100%;
+    height: auto;
+    border-radius: 50px;
+}
+
+.active1 {
+    width: 25px;
+    height: auto;
+}
+
+.active2 {
+    width: 25px;
+    height: auto;
+}
+
+.active3 {
+    width: 25px;
+    height: auto;
+}
+
+.active4 {
+    width: 25px;
+    height: auto;
+}
+
+.p1 {
+    background-color: #e6e6fa;
+    border-radius: 10px;
+    font-size: medium;
+    color: black;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid #e6e6fa;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #e6e6fa;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dd {
+    text-align: center;
+}
+
+.active1 {
+    width: 22px;
+    height: 22px;
+}
